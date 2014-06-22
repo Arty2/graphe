@@ -2,7 +2,8 @@
 
 Graphe • a handwritten font
 ===================================
-Graphe [< Greek for script, γραφή] a personal, handwritten font with awful kerning. It contains English, Greek and several obscure glyphs.
+Graphe [< Greek for script, γραφή] is a personal, handwritten font with awful kerning.
+It contains English, Greek and several obscure glyphs.
 
 Available under the SIL Open Font License.
 
